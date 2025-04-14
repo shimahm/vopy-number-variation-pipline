@@ -20,7 +20,7 @@ graph TD
 
 ```bash
 # Index the reference genome using BWA
-nohup bwa index GCA_040584065.1_ASM4058406v1_genomic.fna &
+bwa index GCA_040584065.1_ASM4058406v1_genomic.fna
 ```
 
 ## 2. Read Alignment
