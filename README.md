@@ -289,6 +289,3 @@ project/
    # ... and so on
    ```
 
-## License
-
-MIT License - Free for academic use
